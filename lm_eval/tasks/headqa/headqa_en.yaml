@@ -1,6 +1,6 @@
 tag: headqa
 task: headqa_en
-dataset_path: EleutherAI/headqa
+dataset_path: dvilares/head_qa
 dataset_name: en
 output_type: multiple_choice
 training_split: train
